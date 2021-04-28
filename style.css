@@ -1,0 +1,48 @@
+.navbar{
+    background-color: #edf2f4;
+    border-bottom: 2px solid #8d99ae;
+}
+.nav-link {
+    color: #2b2d42;
+}
+.nav-brand {
+    color: #2b2d42;
+}
+body {
+    background-color: #2b2d42;
+}
+.row div {
+    border: 2px solid #8d99ae;
+    background-color: #edf2f4;
+}
+.img-fluid {
+    padding: 5%;
+}
+#text {
+    background-color: #edf2f4;
+    text-align: justify;
+    padding: 10%;
+}
+#section-head {
+    color: #edf2f4;
+    background-color: #ef233c;
+    padding: 4%;
+}
+h4,h3,p {
+    color: #2b2d42;
+}
+#collapseExample1 {
+    border: none;
+    background-color: #edf2f4;
+}
+#collapseExample2 {
+    border: none;
+    background-color: #edf2f4;
+}
+#collapseExample3 {
+    border: none;
+    background-color: #edf2f4;
+}
+.btn-outline-light {
+    color: #d90429;
+}
